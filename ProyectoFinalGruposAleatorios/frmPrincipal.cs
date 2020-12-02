@@ -107,21 +107,33 @@ namespace ProyectoFinalGruposAleatorios
             }
 
         }
-       
-
-        private void btnEliminarTodo_Click(object sender, EventArgs e)
+        /// <summary>boton pegar, para pegar en el listbox el contenido copiado.</summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="EventArgs" /> instance containing the event data.</param>
+        private void button3_Click(object sender, EventArgs e)
         {
+            // count, cuenta la cantidad de items en el listbox
+            int count = listBox1.Items.Count;
+            //valida si existe datos en la memoria para copiar
+            if (Clipboard.ContainsText(TextDataFormat.Text))
+            {
+                //convierte en cadena la informacion copiada
+                string[] clipboardText = Clipboard.GetText(TextDataFormat.Text).Split(Environment.NewLine.ToCharArray());
+                //por cada palabra copiada, lo agrega al listbox
+                foreach (string clipboard in clipboardText)
+                {
+                    listBox1.Items.Add(clipboard.Trim());
+                    //validacion de filas vacias.
+                    if (clipboard.ToString().Length == 0)
+                    {
+                        listBox1.Items.Remove(clipboard);
+                    }
 
+
+                }
+
+            }
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnGenerarGrupos_Click_1(object sender, EventArgs e)
-        {
-
-        }
     }
 }
