@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using static GruposAleatoriosLibreria.GruposAleatorioLibreria;
 
@@ -62,7 +55,7 @@ namespace ProyectoFinalGruposAleatorios
             // limite, resulatdo aproximado de cuantas personas son por grupo.
             int a = 1;
             int i = 0;
-            float limite = num_people / num_groups;
+            int limite = num_people / num_groups;
 
             //bucle que genera los grupos en el formulario resultados
             do
@@ -112,8 +105,7 @@ namespace ProyectoFinalGruposAleatorios
         /// <param name="e">The <see cref="EventArgs" /> instance containing the event data.</param>
         private void button3_Click(object sender, EventArgs e)
         {
-            // count, cuenta la cantidad de items en el listbox
-            int count = listBox1.Items.Count;
+            
             //valida si existe datos en la memoria para copiar
             if (Clipboard.ContainsText(TextDataFormat.Text))
             {
@@ -144,5 +136,27 @@ namespace ProyectoFinalGruposAleatorios
             listBox1.Items.Clear();
         }
 
+        /// <summary> Método de agregar participante al presionar enter de forma automatica.</summary>
+        /// <param name="sender">The sender.</param>
+        /// <param name="e">The <see cref="KeyPressEventArgs" /> instance containing the event data.</param>
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)13)
+            {
+                btnAgregarParticipante_Click(sender, e);
+            }
+        }
+        //salir
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        //minimizar
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+   
     }
 }

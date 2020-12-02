@@ -4,3 +4,9 @@ C:\Users\USER\source\repos\GruposAleatoriosFinal\GruposAleatoriosLibreria\obj\De
 C:\Users\USER\source\repos\GruposAleatoriosFinal\GruposAleatoriosLibreria\obj\Debug\GruposAleatoriosLibreria.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\GruposAleatoriosFinal\GruposAleatoriosLibreria\obj\Debug\GruposAleatoriosLibreria.dll
 C:\Users\USER\source\repos\GruposAleatoriosFinal\GruposAleatoriosLibreria\obj\Debug\GruposAleatoriosLibreria.pdb
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\GruposAleatoriosLibreria\bin\Debug\GruposAleatoriosLibreria.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\GruposAleatoriosLibreria\bin\Debug\GruposAleatoriosLibreria.pdb
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\GruposAleatoriosLibreria\obj\Debug\GruposAleatoriosLibreria.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\GruposAleatoriosLibreria\obj\Debug\GruposAleatoriosLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\GruposAleatoriosLibreria\obj\Debug\GruposAleatoriosLibreria.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\GruposAleatoriosLibreria\obj\Debug\GruposAleatoriosLibreria.pdb

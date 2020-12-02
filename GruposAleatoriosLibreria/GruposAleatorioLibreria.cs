@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace GruposAleatoriosLibreria
 {
@@ -11,7 +8,7 @@ namespace GruposAleatoriosLibreria
         /// <summary>
         ///  metodo para cambiar el orden en la cadena <br />
         /// </summary>
-        public class Randomizer
+        public static class Randomizer
         {
             public static void Randomize<T>(T[] items)
             {
@@ -27,6 +24,31 @@ namespace GruposAleatoriosLibreria
             }
         }
 
+        public class NumeroExcel
+        {
 
+            /// <summary>Metodo que transforma numeros a letras de columnas de excel.</summary>
+            /// <param name="columnNumber">Numero que se va transformar.</param>
+            /// <returns>
+            ///   retorna la letra de la columna del excel. <br />
+            /// </returns>
+            public string GetExcelColumnName(int columnNumber)
+            {
+                int dividend = columnNumber;
+                string columnName = String.Empty;
+                int modulo;
+
+                while (dividend > 0)
+                {
+                    modulo = (dividend - 1) % 26;
+                    columnName = Convert.ToChar(65 + modulo).ToString() + columnName;
+                    dividend = (dividend - modulo) / 26;
+                }
+
+                return columnName;
+            }
+
+
+        }
     }
 }
