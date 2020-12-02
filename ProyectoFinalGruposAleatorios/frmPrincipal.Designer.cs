@@ -64,6 +64,7 @@
             this.btnGenerarGrupos.TabIndex = 23;
             this.btnGenerarGrupos.Text = "Generar grupos";
             this.btnGenerarGrupos.UseVisualStyleBackColor = true;
+            this.btnGenerarGrupos.Click += new System.EventHandler(this.btnGenerarGrupos_Click_1);
             // 
             // label4
             // 
@@ -104,6 +105,7 @@
             this.label1.Size = new System.Drawing.Size(433, 18);
             this.label1.TabIndex = 19;
             this.label1.Text = "Ingrese la lista de participantes y la cantidad de grupos a generar.";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBox1
             // 
@@ -119,6 +121,7 @@
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(430, 121);
             this.listBox1.TabIndex = 18;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // btnEliminarTodo
             // 
@@ -128,6 +131,7 @@
             this.btnEliminarTodo.TabIndex = 17;
             this.btnEliminarTodo.Text = "Eliminar todo";
             this.btnEliminarTodo.UseVisualStyleBackColor = true;
+            this.btnEliminarTodo.Click += new System.EventHandler(this.btnEliminarTodo_Click);
             // 
             // button3
             // 
@@ -146,6 +150,7 @@
             this.btnEliminar.TabIndex = 15;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnAgregarParticipante
             // 

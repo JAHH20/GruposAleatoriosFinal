@@ -95,8 +95,31 @@ namespace ProyectoFinalGruposAleatorios
             Resultado.ShowDialog();
 
         }
+        /// <summary>>boton btnEliminar_Click elemina un participante de la listbox.</summary>
+        /// <param name="sender">Recurso del evento.</param>
+        /// <param name="e">La <see cref="EventArgs" /> instacia que contiene la inforamción del evento.</param>
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            /// validacion para eliminar elementos
+            while (listBox1.SelectedItems.Count > 0)
+            {
+                listBox1.Items.Remove(listBox1.SelectedItems[0]);
+            }
 
-        private void frmPrincipal_Load(object sender, EventArgs e)
+        }
+       
+
+        private void btnEliminarTodo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGenerarGrupos_Click_1(object sender, EventArgs e)
         {
 
         }
