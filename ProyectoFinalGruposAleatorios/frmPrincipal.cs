@@ -135,5 +135,14 @@ namespace ProyectoFinalGruposAleatorios
             }
         }
 
+        /// <summary>boton btnEliminarTodo_Click elemina todos los participantes de la listbox.</summary>
+        /// <param name="sender">Recurso del evento.</param>
+        /// <param name="e">La <see cref="EventArgs" /> instacia que contiene la inforamción del evento.</param>
+        private void btnEliminarTodo_Click(object sender, EventArgs e)
+        {
+            /// limpia el lixtBox
+            listBox1.Items.Clear();
+        }
+
     }
 }
