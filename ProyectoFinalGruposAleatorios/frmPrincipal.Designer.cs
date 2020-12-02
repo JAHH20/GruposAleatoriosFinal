@@ -176,6 +176,7 @@
             this.Controls.Add(this.btnAgregarParticipante);
             this.Name = "frmPrincipal";
             this.Text = "frmPrincipal";
+            this.Load += new System.EventHandler(this.frmPrincipal_Load);
             ((System.ComponentModel.ISupportInitialize)(this.txtGruposCantidad)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

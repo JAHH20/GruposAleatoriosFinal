@@ -94,5 +94,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GruposAleatoriosLibreria\GruposAleatoriosLibreria.csproj">
+      <Project>{274f9236-cba8-4ab8-aae4-1fd66d7c16de}</Project>
+      <Name>GruposAleatoriosLibreria</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
