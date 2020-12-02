@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\obj\Debug\ProyectoFinalGruposAleatorios.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\obj\Debug\ProyectoFinalGruposAleatorios.frmPrincipal.resources
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\obj\Debug\ProyectoFinalGruposAleatorios.frmResultado.resources
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\obj\Debug\ProyectoFinalGruposAleatorios.Properties.Resources.resources
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\obj\Debug\ProyectoFinalGruposAleatorios.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\obj\Debug\ProyectoFinalGruposAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\bin\Debug\ProyectoFinalGruposAleatorios.exe.config
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\bin\Debug\ProyectoFinalGruposAleatorios.exe
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\bin\Debug\ProyectoFinalGruposAleatorios.pdb
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\bin\Debug\GruposAleatoriosLibreria.dll
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\bin\Debug\GruposAleatoriosLibreria.pdb
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\obj\Debug\ProyectoFinalGruposAleatorios.csproj.CopyComplete
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\obj\Debug\ProyectoFinalGruposAleatorios.exe
+C:\Users\USER\source\repos\GruposAleatoriosFinal\ProyectoFinalGruposAleatorios\obj\Debug\ProyectoFinalGruposAleatorios.pdb
