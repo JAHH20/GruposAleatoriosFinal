@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinalGruposAleatorios", "ProyectoFinalGruposAleatorios\ProyectoFinalGruposAleatorios.csproj", "{B1986E6D-86F9-4D75-8E0C-33A2D367D9F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GruposAleatoriosLibreria", "GruposAleatoriosLibreria\GruposAleatoriosLibreria.csproj", "{274F9236-CBA8-4AB8-AAE4-1FD66D7C16DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1986E6D-86F9-4D75-8E0C-33A2D367D9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1986E6D-86F9-4D75-8E0C-33A2D367D9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1986E6D-86F9-4D75-8E0C-33A2D367D9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1986E6D-86F9-4D75-8E0C-33A2D367D9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274F9236-CBA8-4AB8-AAE4-1FD66D7C16DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274F9236-CBA8-4AB8-AAE4-1FD66D7C16DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274F9236-CBA8-4AB8-AAE4-1FD66D7C16DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274F9236-CBA8-4AB8-AAE4-1FD66D7C16DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E54B294-B315-4030-9C16-D538F02C78CD}
+	EndGlobalSection
+EndGlobal
