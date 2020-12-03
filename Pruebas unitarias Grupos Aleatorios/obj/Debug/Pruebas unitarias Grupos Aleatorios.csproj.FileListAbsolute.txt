@@ -1,0 +1,19 @@
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\Pruebas unitarias Grupos Aleatorios.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\Pruebas unitarias Grupos Aleatorios.pdb
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\GruposAleatoriosLibreria.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\GruposAleatoriosLibreria.pdb
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\obj\Debug\Pruebas unitarias Grupos Aleatorios.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\obj\Debug\Pruebas unitarias Grupos Aleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\obj\Debug\Pruebas unitarias Grupos Aleatorios.csproj.CopyComplete
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\obj\Debug\Pruebas unitarias Grupos Aleatorios.dll
+C:\Users\Jesus\source\repos\ProyectoFinalGruposAleatorios\Pruebas unitarias Grupos Aleatorios\obj\Debug\Pruebas unitarias Grupos Aleatorios.pdb

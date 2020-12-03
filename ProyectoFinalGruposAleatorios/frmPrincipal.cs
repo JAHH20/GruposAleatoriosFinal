@@ -30,6 +30,9 @@ namespace ProyectoFinalGruposAleatorios
                 textBox1.Text = "";
                 textBox1.Focus();
             }
+                    
+                
+          
         }
 
         /// <summary> boton btnGenerarGrupos_Click para generar los grupos aleatoris.</summary>
@@ -88,6 +91,7 @@ namespace ProyectoFinalGruposAleatorios
             Resultado.ShowDialog();
 
         }
+
         /// <summary>>boton btnEliminar_Click elemina un participante de la listbox.</summary>
         /// <param name="sender">Recurso del evento.</param>
         /// <param name="e">La <see cref="EventArgs" /> instacia que contiene la inforamción del evento.</param>
@@ -100,6 +104,7 @@ namespace ProyectoFinalGruposAleatorios
             }
 
         }
+
         /// <summary>boton pegar, para pegar en el listbox el contenido copiado.</summary>
         /// <param name="sender">The source of the event.</param>
         /// <param name="e">The <see cref="EventArgs" /> instance containing the event data.</param>

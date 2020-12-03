@@ -12,7 +12,8 @@ namespace GruposAleatoriosLibreria
         {
             public static void Randomize<T>(T[] items)
             {
-                Random rand = new Random();
+                var semilla = Environment.TickCount;
+                Random rand = new Random(semilla);
                 //desordena el array de forma aleatoria
                 for (int i = 0; i < items.Length - 1; i++)
                 {
